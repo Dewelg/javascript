@@ -3,10 +3,19 @@ console.log(
   "Follow the steps in the README.md file to complete the exercises:\n==========\n"
 );
 
-const firstName;
+const firstName = Dewel;
 let lastName = 'Gonzalez';
 var age = 18;
 
-// Exercise 2
+let language = "JavaScript";
+let createdYear = 1995;
+let isCaseSentsitive = true;
 
-// Exercise 3
+let price = 19.99;
+let isonsale = false;
+let salePercentage = 15;
+let stock = 0;
+let inStock = false;
+let selectSize = 'M';
+
+
