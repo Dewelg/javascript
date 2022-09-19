@@ -3,7 +3,9 @@ console.log(
   "Follow the steps in the README.md file to complete the exercises:\n==========\n"
 );
 
-// Exercise 1
+const firstName;
+let lastName = 'Gonzalez';
+var age = 18;
 
 // Exercise 2
 
