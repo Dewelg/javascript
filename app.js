@@ -18,4 +18,8 @@ let stock = 0;
 let inStock = false;
 let selectSize = 'M';
 
-
+let title = 'Name of the Wind';
+let author = 'Patrick Rothfuss';
+let pageCount = 722;
+let bookmark = 456;
+let hasRead = true;
